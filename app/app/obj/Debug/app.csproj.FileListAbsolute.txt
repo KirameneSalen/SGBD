@@ -1,0 +1,10 @@
+H:\onedrive\sgbd\SGBD\app\app\bin\Debug\app.exe.config
+H:\onedrive\sgbd\SGBD\app\app\bin\Debug\app.exe
+H:\onedrive\sgbd\SGBD\app\app\bin\Debug\app.pdb
+H:\onedrive\sgbd\SGBD\app\app\obj\Debug\app.csprojAssemblyReference.cache
+H:\onedrive\sgbd\SGBD\app\app\obj\Debug\app.Form1.resources
+H:\onedrive\sgbd\SGBD\app\app\obj\Debug\app.Properties.Resources.resources
+H:\onedrive\sgbd\SGBD\app\app\obj\Debug\app.csproj.GenerateResource.cache
+H:\onedrive\sgbd\SGBD\app\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+H:\onedrive\sgbd\SGBD\app\app\obj\Debug\app.exe
+H:\onedrive\sgbd\SGBD\app\app\obj\Debug\app.pdb
